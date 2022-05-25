@@ -1,0 +1,4 @@
+vendor
+compile/*.php
+config/*.php
+cache/*.php
